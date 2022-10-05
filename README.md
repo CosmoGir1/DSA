@@ -13,3 +13,4 @@ No duplicate codes will be accepted
 3) BubbleSort
 4) Heapsort
 5) InsertionSort
+6) CountingSort
