@@ -9,3 +9,4 @@ No duplicate codes will be accepted
 
 ### Algorithms
 1) MergeSort
+2) QuickSort
