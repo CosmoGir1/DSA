@@ -11,3 +11,6 @@ No duplicate codes will be accepted
 1) MergeSort
 2) QuickSort
 3) BubbleSort
+4) Heapsort
+5) InsertionSort
+6) CountingSort
