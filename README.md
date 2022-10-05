@@ -14,3 +14,4 @@ No duplicate codes will be accepted
 4) Heapsort
 5) InsertionSort
 6) CountingSort
+7) SelectionSort
