@@ -12,3 +12,4 @@ No duplicate codes will be accepted
 2) QuickSort
 3) BubbleSort
 4) Heapsort
+5) InsertionSort
