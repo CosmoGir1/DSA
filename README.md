@@ -6,3 +6,6 @@ Use of Java language is allowed
 
 Please check the repository before adding any data structures or algorithms
 No duplicate codes will be accepted
+
+## Algorithms added
+1) Merge Sort
